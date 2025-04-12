@@ -1,10 +1,9 @@
 # 👋 ¡Hola! Soy Óscar García
 
 
-Soy diseñador con más de 10 años de experiencia y actualmente me estoy reinventando como desarrollador **fullstack JavaScript**. 
-En los últimos meses he realizado un máster con el stack **React**, **Node.js** y **MongoDB**.
+Soy desarrollador FullStack con más de 10 años de experiencia como diseñador y actualmente me estoy reinventando como desarrollador **fullstack JavaScript** finalizando un máster basado en el stack **React**, **Node.js** y **MongoDB**.
 
-📍 Vivo en Madrid y acabo de terminar un máster en desarrollo web fullstack.  
+📍 Vivo en Madrid.  
 🎯 Ahora busco dar el salto profesional y aplicar mis conocimientos en proyectos reales.
 
 
