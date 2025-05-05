@@ -36,6 +36,6 @@ App de reserva de trenes. Stack: Node + React + Vite + MongoDB.
 
 ## 📫 Conecta conmigo
 
-- Web: [discoveroscardo.com](https://discoveroscardo.es)
+- Web: [discoveroscardo.es](https://discoveroscardo.es)
 - LinkedIn: [linkedin.com/in/oscardo](https://www.linkedin.com/in/oscardo/)
 - Email: discoveroscardo@gmail.com
